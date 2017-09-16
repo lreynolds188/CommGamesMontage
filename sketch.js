@@ -1,3 +1,10 @@
+
+// application information
+__author__ = 'Jordan Schurmann, Luke Reynolds'
+__email__ = 'jordan.schurmann@gmail.com, lreynolds188@gmail.com'
+__version__ = '1.0.5'
+__website__ = 'http://lukereynolds.net/'
+
 var oldImages = new Array(3);
 var newImages = new Array(3);
 var newTintedImages = new Array(3);
